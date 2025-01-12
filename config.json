@@ -1,0 +1,8 @@
+{
+  "level": 0,
+  "file_prefix": "LogFire_",
+  "rolling_config": {
+    "size_threshold": 20480,
+    "time_threshold": 60
+  }
+}
